@@ -1,9 +1,30 @@
-# Tours-event
+# Tours & event 
 
-website for planning your events.
 
-This site allows you to plan a event with your friends and family
-and also allows you to join into any publicly available event.
- you can search for any public events and join it.
- this site is simple and easy to use , you can check upcoming event 
- and also ongoing event and take participation on it .
+# Parallax Site 
+
+#### By SHARIF KAMRAN
+
+#### This Webpage is for envent organize and for inform  about upcomming event 
+
+## Technologies Used
+    
+
+* HTML
+* CSS
+* CSS (media queries)
+* JS (lit bit just for menu bar )
+
+## Description
+this website is design for event and adventure informartion .
+
+## Setup/Installation Requirements
+
+* Clone this repo to your desktop
+* Naviagte to the top level of directory
+* Open index.html in your browser
+
+# Note 
+This site besed on vi
+
+
