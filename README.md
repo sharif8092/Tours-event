@@ -1,8 +1,5 @@
 # Tours & event 
 
-
-# Parallax Site 
-
 #### By SHARIF KAMRAN
 
 #### This Webpage is for envent organize and for inform  about upcomming event 
